@@ -1,0 +1,15 @@
+header img {
+  width: 50%;
+}
+
+send-account {
+  display: none;
+}
+
+send-upload-area > button:not(#upload-btn) {
+  display: none;
+}
+
+footer.flex {
+  display: none;
+}

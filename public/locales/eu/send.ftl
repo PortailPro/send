@@ -1,5 +1,5 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
 siteFeedback = Iritzia
 importingFile = Inportatzen…
 encryptingFile = Zifratzen...
@@ -20,7 +20,7 @@ unlockButtonLabel = Desblokeatu
 downloadButtonLabel = Deskargatu
 downloadFinish = Deskarga burututa
 fileSizeProgress = ({ $totalSize } / { $partialSize })
-sendYourFilesLink = Probatu Firefox Send
+sendYourFilesLink = Probatu Portailpro Send
 errorPageHeader = Zerbait gaizki joan da!
 fileTooBig = Fitxategia handiegia da kargatzeko. { $size } baino txikiagoa izan behar du.
 linkExpiredAlt = Lotura iraungita

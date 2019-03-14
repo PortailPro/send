@@ -1,5 +1,6 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
+siteSubtitle = arbrawf gwe
 siteFeedback = Adborth
 importingFile = Mewnforio…
 encryptingFile = Wrthi'n amgryptio…
@@ -25,25 +26,48 @@ timespanHours =
 copiedUrl = Wedi eu copïo!
 unlockInputPlaceholder = Cyfrinair
 unlockButtonLabel = Datgloi
+downloadFileTitle = Llwythwch Ffeil wedi ei Hamgryptio i Lawr
+# Portailpro Send is a brand name and should not be localized.
+downloadMessage = Mae ffrind i chi yn anfon ffeil atoch drwy Portailpro Send, gwasanaeth sy'n caniatáu i chi rannu ffeiliau drwy ddolen ddiogel, breifat ac wedi ei amgryptio sy'n dod i ben yn awtomatig er mwyn sicrhau nad yw eich deunydd yn aros ar-lein am byth.
+# Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = Llwytho i Lawr
 downloadFinish = Llwytho wedi Gorffen
 fileSizeProgress = ({ $partialSize } o { $totalSize })
-sendYourFilesLink = Rhowch gynnig ar Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+sendYourFilesLink = Rhowch gynnig ar Portailpro Send
+downloadingPageProgress = Llwytho i lawr { $filename } ({ $size })
+downloadingPageMessage = Gadewch y tab yma ar agor tra fyddwn yn estyn eich ffeil a'i dad-amgryptio.
+errorAltText = Gwall llwytho
 errorPageHeader = Aeth rhywbeth o'i le!
 fileTooBig = Mae'r ffeil yn rhy fawr i'w llwytho. Dylai fod yn llai na { $size }.
 linkExpiredAlt = Mae'r ddolen wedi dod i ben
 notSupportedHeader = Nid yw eich porwr yn cael ei gynnal.
+# Portailpro Send is a brand name and should not be localized.
+notSupportedDetail = Yn anffodus, nid yw'r porwr hwn yn cynnal y technoleg gwe sy'n cynnal Portailpro Send. Bydd angen i chi ddefnyddio porwr arall. Rydym ni'n argymell Firefox!
 notSupportedLink = Pam nad yw fy mhorwr yn cael ei gynnal?
-notSupportedOutdatedDetail = Yn anffodus, nid yw'r fersiwn yma o Firefox yn cynnal y technoleg gwe sy'n gyrru Firefox Send. Bydd angen i chi ddiweddaru eich porwr.
+notSupportedOutdatedDetail = Yn anffodus, nid yw'r fersiwn yma o Firefox yn cynnal y technoleg gwe sy'n gyrru Portailpro Send. Bydd angen i chi ddiweddaru eich porwr.
 updateFirefox = Diweddaru Firefox
+downloadFirefoxButtonSub = Llwytho i Lawr am Ddim
+uploadedFile = Ffeil
+copyFileList = Copïo URL
+# expiryFileList is used as a column header
+expiryFileList = Daw i ben ymhen
+deleteFileList = Dileu
+nevermindButton = Dim ots
+legalHeader = Amodau a Phreifatrwydd
+legalNoticeTestPilot = Ar hyn o mae Portailpro Send yn arbrawf  o fewn rhaglen Test Pilot ac yn destun <a>Amodau Gwasanaeth</a> a <a>Hysbysiad Preifatrwydd</a> Test Pilot . Gallwch ddysgu rhagor am yr arbrawf a'r data mae'n ei gasglu <a>yma</a>.
+legalNoticeMozilla = Mae'r defnydd o wefan Portailpro Send hefyd yn destun <a>Hysbysiad Preifatrwydd Gwefannau</a> ac <a>Amodau Defnydd Gwefannau</a> Mozilla.
+deletePopupText = Dileu'r ffeil?
+deletePopupYes = Iawn
 deletePopupCancel = Diddymu
 deleteButtonHover = Dileu
 footerLinkLegal = Cyfreithiol
 footerLinkPrivacy = Preifatrwydd
 footerLinkCookies = Cwcis
 passwordTryAgain = Cyfrinair anghywir. Ceisiwch eto.
-javascriptRequired = Mae Firefox Send angen JavaScript
-whyJavascript = Pam fod Firefox Send angen JavaScript?
+reportIPInfringement = Adrodd ar Gamddefnydd o'r IP
+javascriptRequired = Mae Portailpro Send angen JavaScript
+whyJavascript = Pam fod Portailpro Send angen JavaScript?
 enableJavascript = Galluogwch JavaScript a cheisio eto.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }a { $minutes }m
@@ -54,10 +78,10 @@ maxPasswordLength = Hyd mwyaf cyfrinair: { $length }
 # A short status message shown when there was an error setting the password
 passwordSetError = Nid oedd modd gosod y cyfrinair hwn
 
-## Send version 2 strings
+## New strings for the vNext version of Portailpro Send
 
-# Firefox Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Firefox Send
+# Portailpro Send, Send, Firefox, Mozilla are proper names and should not be localized
+-send-brand = Portailpro Send
 -send-short-brand = Anfon
 -firefox = Firefox
 -mozilla = Mozilla

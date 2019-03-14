@@ -1,5 +1,6 @@
 node_modules
 coverage
+datas
 dist
 .idea
 .DS_Store

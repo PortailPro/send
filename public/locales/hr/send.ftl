@@ -1,5 +1,5 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
 siteFeedback = Povratne informacije
 importingFile = Uvoz…
 encryptingFile = Kriptiranje…
@@ -22,13 +22,13 @@ unlockButtonLabel = Otključaj
 downloadButtonLabel = Preuzmi
 downloadFinish = Preuzimanje je završeno.
 fileSizeProgress = ({ $partialSize } od { $totalSize })
-sendYourFilesLink = Isprobajte Firefox Send
+sendYourFilesLink = Isprobajte Portailpro Send
 errorPageHeader = Nešto je pošlo naopako!
 fileTooBig = Datoteka je prevelika za prijenos. Treba biti manja od { $size }.
 linkExpiredAlt = Poveznica je istekla
 notSupportedHeader = Vaš preglednik nije podržan.
 notSupportedLink = Zašto moj preglednik nije podržan?
-notSupportedOutdatedDetail = Nažalost, ovo izdanje Firefoxa ne podržava web tehnologiju koja omogućava Firefox Send. Morat ćete ažurirati vaš preglednik.
+notSupportedOutdatedDetail = Nažalost, ovo izdanje Firefoxa ne podržava web tehnologiju koja omogućava Portailpro Send. Morat ćete ažurirati vaš preglednik.
 updateFirefox = Ažuriraj Firefox
 deletePopupCancel = Otkaži
 deleteButtonHover = Obriši
@@ -36,8 +36,8 @@ footerLinkLegal = Pravni podaci
 footerLinkPrivacy = Privatnost
 footerLinkCookies = Kolačići
 passwordTryAgain = Netočna lozinka. Pokušaj ponovo.
-javascriptRequired = Za Firefox Send je potreban JavaScript
-whyJavascript = Zašto je za Firefox Send potreban JavaScript?
+javascriptRequired = Za Portailpro Send je potreban JavaScript
+whyJavascript = Zašto je za Portailpro Send potreban JavaScript?
 enableJavascript = Omogućite JavaScript i pokušajte ponovo.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }s { $minutes }m
@@ -50,8 +50,8 @@ passwordSetError = Lozinku nije moguće postaviti
 
 ## Send version 2 strings
 
-# Firefox Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Firefox Send
+# Portailpro Send, Send, Firefox, Mozilla are proper names and should not be localized
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

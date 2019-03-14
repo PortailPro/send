@@ -78,7 +78,7 @@ const serviceWorker = {
 const web = {
   target: 'web',
   entry: {
-    app: ['./app/main.js'],
+    app: ['./app/main.js', './app/override.css'],
     android: ['./android/android.js'],
     ios: ['./ios/ios.js']
   },

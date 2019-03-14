@@ -1,5 +1,6 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
+siteSubtitle = Tarmit web
 siteFeedback = Tikti
 importingFile = Akter...
 encryptingFile = Awgelhen...
@@ -17,25 +18,48 @@ timespanHours =
 copiedUrl = Yenɣel!
 unlockInputPlaceholder = Awal uffir
 unlockButtonLabel = Serreḥ
+downloadFileTitle = Sider afaylu awgelhan
+# Portailpro Send is a brand name and should not be localized.
+downloadMessage = Amdakel-ik yuzen-ak-d afaylu s Firefox Portailpro Send, ameẓlu ara yeǧǧen tuzna n ifuyla s wudem aɣelsan, s tbadnit akked uwgelhen s useqdec n useqwen ara yeùten s wudem awurman akken talqut-ik ur tettɣimi ara srid i lebda.
+# Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = Sider
 downloadFinish = Asider yemmed
 fileSizeProgress = ({ $partialSize } seg { $totalSize })
-sendYourFilesLink = Ɛreḍ Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+sendYourFilesLink = Ɛreḍ Portailpro Send
+downloadingPageProgress = Asider n { $filename } ({ $size })
+downloadingPageMessage = Eǧǧ iccer-agi yeldi ticki nettnadi afaylu akken ad newgelhen.
+errorAltText = Tuccḍa n tuzna
 errorPageHeader = Yella wayen yeḍran!
 fileTooBig = Afaylu-agi meqqeṛ aṭas. Yessefk ad yili daw n  { $size }.
 linkExpiredAlt = Aseɣwen yemmut
 notSupportedHeader = Iminig-ik ur ittusefrak ara
+# Portailpro Send is a brand name and should not be localized.
+notSupportedDetail = Ad nesḥissef imi iminig-ik ur isefrak ara tatiknulujit web iseqdac Portailpro Send. Yessefk ad tesqedceḍ iminig-nniḍen. Seqdec Firefox!
 notSupportedLink = Ayγer iminig inu ur yettwasefrek ara?
-notSupportedOutdatedDetail = Ad nesḥissef imilqem-agi n Firefox Firefox ur isefrak ara titiknulujiyin web yettwaseqdacen di Firefox Send. Yessefk ad tleqmeḍ iminig-ik.
+notSupportedOutdatedDetail = Ad nesḥissef imilqem-agi n Firefox Firefox ur isefrak ara titiknulujiyin web yettwaseqdacen di Portailpro Send. Yessefk ad tleqmeḍ iminig-ik.
 updateFirefox = Leqqem Firefox
+downloadFirefoxButtonSub = Asider ilelli
+uploadedFile = Afaylu
+copyFileList = Nɣel URL
+# expiryFileList is used as a column header
+expiryFileList = Ad ifak di
+deleteFileList = Kkes
+nevermindButton = Wicqa
+legalHeader = Tiwtilin &tabaḍnit
+legalNoticeTestPilot = Portailpro Send yettwasekyad akka tura am tarmit Test Pilot, ihi ad yili daw n <a>n tewtilin n useqdec </a> n  Test Pilot akked <a>Tasertit n tbaḍnit</a>. Tzemreḍ ad teẓreḍ ugar ɣeef tarmit-agi akked ulqaḍ n isefka<a> dagihere</a>.
+legalNoticeMozilla = Aseqdec n usmel n Portailpro Send yella daw n <a> ilugan tbaḍnit n yismal web </a> n Mozilla akked <a> Tiwtilin n useqdec n yismal Web</a> n Mozilla.
+deletePopupText = Kkes afaylu-agi?
+deletePopupYes = Ih
 deletePopupCancel = Sefsex
 deleteButtonHover = Kkes
 footerLinkLegal = Usḍif
 footerLinkPrivacy = Tabaḍnit
 footerLinkCookies = Inagan n tuqqna
 passwordTryAgain = Yir awal uffir. Ɛreḍ tikelt nniḍen.
-javascriptRequired = Firefox Send yesra JavaScript
-whyJavascript = Ayɣer firefox Send yesra JavaScript?
+reportIPInfringement = Neqqes akukel n IP
+javascriptRequired = Portailpro Send yesra JavaScript
+whyJavascript = Ayɣer Portailpro Send yesra JavaScript?
 enableJavascript = Ma ulac aɣilif rmed JavaScript sakin ɛreḍ tikkelt nniḍen.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }Isragen { $minutes }Tisdatin

@@ -1,5 +1,6 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
+siteSubtitle = web experiment
 siteFeedback = Feedback
 importingFile = Importing…
 encryptingFile = Encrypting…
@@ -17,25 +18,48 @@ timespanHours =
 copiedUrl = Copied!
 unlockInputPlaceholder = Password
 unlockButtonLabel = Unlock
+downloadFileTitle = Download Encrypted File
+# Portailpro Send is a brand name and should not be localized.
+downloadMessage = Your friend is sending you a file with Portailpro Send, a service that allows you to share files with a safe, private, and encrypted link that automatically expires to ensure your stuff does not remain online forever.
+# Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = Download
 downloadFinish = Download Complete
 fileSizeProgress = ({ $partialSize } of { $totalSize })
-sendYourFilesLink = Try Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+sendYourFilesLink = Try Portailpro Send
+downloadingPageProgress = Downloading { $filename } ({ $size })
+downloadingPageMessage = Please leave this tab open while we fetch your file and decrypt it.
+errorAltText = Upload error
 errorPageHeader = Something went wrong!
 fileTooBig = That file is too big to upload. It should be less than { $size }.
 linkExpiredAlt = Link expired
 notSupportedHeader = Your browser is not supported.
+# Portailpro Send is a brand name and should not be localized.
+notSupportedDetail = Unfortunately this browser does not support the web technology that powers Portailpro Send. You’ll need to try another browser. We recommend Firefox!
 notSupportedLink = Why is my browser not supported?
-notSupportedOutdatedDetail = Unfortunately this version of Firefox does not support the web technology that powers Firefox Send. You’ll need to update your browser.
+notSupportedOutdatedDetail = Unfortunately this version of Firefox does not support the web technology that powers Portailpro Send. You’ll need to update your browser.
 updateFirefox = Update Firefox
+downloadFirefoxButtonSub = Free Download
+uploadedFile = File
+copyFileList = Copy URL
+# expiryFileList is used as a column header
+expiryFileList = Expires In
+deleteFileList = Delete
+nevermindButton = Never mind
+legalHeader = Terms & Privacy
+legalNoticeTestPilot = Portailpro Send is currently a Test Pilot experiment, and subject to the Test Pilot <a>Terms of Service</a> and <a>Privacy Notice</a>. You can learn more about this experiment and its data collection <a>here</a>.
+legalNoticeMozilla = Use of the Portailpro Send web site is also subject to Mozilla’s <a>Websites Privacy Notice</a> and <a>Websites Terms of Use</a>.
+deletePopupText = Delete this file?
+deletePopupYes = Yes
 deletePopupCancel = Cancel
 deleteButtonHover = Delete
 footerLinkLegal = Legal
 footerLinkPrivacy = Privacy
 footerLinkCookies = Cookies
 passwordTryAgain = Incorrect password. Try again.
-javascriptRequired = Firefox Send requires JavaScript
-whyJavascript = Why does Firefox Send require JavaScript?
+reportIPInfringement = Report IP Infringement
+javascriptRequired = Portailpro Send requires JavaScript
+whyJavascript = Why does Portailpro Send require JavaScript?
 enableJavascript = Please enable JavaScript and try again.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }h { $minutes }m
@@ -46,10 +70,10 @@ maxPasswordLength = Maximum password length: { $length }
 # A short status message shown when there was an error setting the password
 passwordSetError = This password could not be set
 
-## Send version 2 strings
+## New strings for the vNext version of Portailpro Send
 
-# Firefox Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Firefox Send
+# Portailpro Send, Send, Firefox, Mozilla are proper names and should not be localized
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

@@ -1,5 +1,6 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
+siteSubtitle = eksperimen web
 siteFeedback = Saran
 importingFile = Mengimpor…
 encryptingFile = Mengenkripsi...
@@ -15,25 +16,48 @@ timespanHours =
 copiedUrl = Tersalin!
 unlockInputPlaceholder = Sandi
 unlockButtonLabel = Buka
+downloadFileTitle = Unduh Berkas Terenkripsi
+# Portailpro Send is a brand name and should not be localized.
+downloadMessage = Teman Anda mengirimkan berkas dengan Portailpro Send, layanan yang memungkinkan Anda berbagi berkas dengan tautan yang aman, pribadi, dan terenkripsi yang secara otomatis berakhir untuk memastikan berkas Anda tidak daring selamanya.
+# Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = Unduh
 downloadFinish = Unduhan Selesai
 fileSizeProgress = ({ $partialSize } dari { $totalSize })
-sendYourFilesLink = Coba Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+sendYourFilesLink = Coba Portailpro Send
+downloadingPageProgress = Mengunduh { $filename } ({ $size })
+downloadingPageMessage = Sila biarkan tab ini terbuka sementara kami memproses berkas Anda dan mendekripsinya.
+errorAltText = Unggahan bermasalah
 errorPageHeader = Terjadi kesalahan!
 fileTooBig = Berkas terlalu besar untuk diunggah. Harus kurang dari { $size }.
 linkExpiredAlt = Tautan kedaluwarsa
 notSupportedHeader = Peramban Anda tidak mendukung.
+# Portailpro Send is a brand name and should not be localized.
+notSupportedDetail = Sayangnya peramban ini tidak mendukung teknologi web yang menggerakkan Portailpro Send. Anda perlu mencoba peramban lain. Kami merekomendasikan Firefox!
 notSupportedLink = Mengapa peramban saya tidak didukung?
-notSupportedOutdatedDetail = Sayangnya Firefox versi ini tidak mendukung teknologi web yang menggerakkan Firefox Send. Anda perlu memperbarui peramban Anda.
+notSupportedOutdatedDetail = Sayangnya Firefox versi ini tidak mendukung teknologi web yang menggerakkan Portailpro Send. Anda perlu memperbarui peramban Anda.
 updateFirefox = Perbarui Firefox
+downloadFirefoxButtonSub = Unduh Gratis
+uploadedFile = Berkas
+copyFileList = Salin URL
+# expiryFileList is used as a column header
+expiryFileList = Kedaluwarsa Pada
+deleteFileList = Hapus
+nevermindButton = Abaikan
+legalHeader = Syarat & Privasi
+legalNoticeTestPilot = Saat ini Portailpro Send merupakan eksperimen Test Pilot, dan merupakan subyek dari <a>Ketentuan Layanan</a> dan <a>Pemberitahuan Privasi</a> Test Pilot. Anda dapat mempelajari lebih lanjut tentang eksperimen ini dan pengumpulan datanya <a>di sini</a>.
+legalNoticeMozilla = Penggunaan situs Portailpro Send juga merupakan subyek dari <a>Pemberitahuan Privasi Situs Web</a> dan <a>Persyaratan Penggunaan Situs Web</a> Mozilla.
+deletePopupText = Hapus berkas ini?
+deletePopupYes = Ya
 deletePopupCancel = Batal
 deleteButtonHover = Hapus
 footerLinkLegal = Legal
 footerLinkPrivacy = Privasi
 footerLinkCookies = Kuki
 passwordTryAgain = Sandi salah. Silakan coba lagi.
-javascriptRequired = Firefox Send membutuhkan JavaScript.
-whyJavascript = Mengapa Firefox Send membutuhkan JavaScript?
+reportIPInfringement = Laporkan Pelanggaran IP
+javascriptRequired = Portailpro Send membutuhkan JavaScript.
+whyJavascript = Mengapa Portailpro Send membutuhkan JavaScript?
 enableJavascript = Silakan aktifkan JavaScript dan coba lagi.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }j { $minutes }m
@@ -44,10 +68,10 @@ maxPasswordLength = Panjang sandi maksimal: { $length }
 # A short status message shown when there was an error setting the password
 passwordSetError = Tidak bisa menyetel sandi ini
 
-## Send version 2 strings
+## New strings for the vNext version of Portailpro Send
 
-# Firefox Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Firefox Send
+# Portailpro Send, Send, Firefox, Mozilla are proper names and should not be localized
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

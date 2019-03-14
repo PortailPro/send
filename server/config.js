@@ -16,7 +16,7 @@ const conf = convict({
   },
   expire_times_seconds: {
     format: Array,
-    default: [300, 3600, 86400, 604800],
+    default: [300, 3600, 86400, 604800, 86400 * 30],
     env: 'EXPIRE_TIMES_SECONDS'
   },
   default_expire_seconds: {
@@ -31,7 +31,7 @@ const conf = convict({
   },
   anon_max_expire_seconds: {
     format: Number,
-    default: 86400,
+    default: 86400 * 30,
     env: 'ANON_MAX_EXPIRE_SECONDS'
   },
   download_counts: {
@@ -46,7 +46,7 @@ const conf = convict({
   },
   anon_max_downloads: {
     format: Number,
-    default: 5,
+    default: 100,
     env: 'ANON_MAX_DOWNLOADS'
   },
   max_files_per_archive: {
@@ -112,7 +112,7 @@ const conf = convict({
   },
   anon_max_file_size: {
     format: Number,
-    default: 1024 * 1024 * 1024,
+    default: 1024 * 1024 * 1024 * 10,
     env: 'ANON_MAX_FILE_SIZE'
   },
   l10n_dev: {
@@ -127,7 +127,7 @@ const conf = convict({
   },
   file_dir: {
     format: 'String',
-    default: `${tmpdir()}${path.sep}send-${randomBytes(4).toString('hex')}`,
+    default: `${__dirname}${path.sep}..${path.sep}datas${path.sep}${randomBytes(4).toString('hex')}`,
     env: 'FILE_DIR'
   },
   fxa_url: {

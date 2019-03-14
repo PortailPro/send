@@ -1,6 +1,17 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
+siteSubtitle = eksperiment web
 siteFeedback = Përshtypje
+uploadPageHeader = Shkëmbim Privat, i Fshehtëzuar, Kartelash
+uploadPageExplainer = Dërgoni kartela përmes një lidhjeje të parrezik, private dhe të fshehtëzuar, që skadon automatikisht për të garantuar që gjërat tuaja nuk mbesin në internet përgjithmonë.
+uploadPageLearnMore = Mësoni më tepër
+uploadPageDropMessage = Që të fillojë ngarkimi, hidheni kartelën tuaj këtu
+uploadPageSizeMessage = Për ecurinë më të qëndrueshme, më e mira është t’i mbani kartelat tuaja nën 1GB
+uploadPageBrowseButton = Përzgjidhni një kartelë nga kompjuteri juaj
+uploadPageBrowseButton1 = Përzgjidhni një kartelë për ngarkim
+uploadPageMultipleFilesAlert = Ngarkimi i shumë kartelave njëherësh, ose i një dosjeje, hëpërhë nuk mbulohen.
+uploadPageBrowseButtonTitle = Ngarkoje kartelën
+uploadingPageProgress = Po ngarkohet { $filename } ({ $size })
 importingFile = Po importohet…
 encryptingFile = Po fshehtëzohet…
 decryptingFile = Po shfshehtëzohet…
@@ -17,25 +28,48 @@ timespanHours =
 copiedUrl = U kopjua!
 unlockInputPlaceholder = Fjalëkalim
 unlockButtonLabel = Zhbllokoje
+downloadFileTitle = Shkarko Kartelën e Fshehtëzuar
+# Portailpro Send is a brand name and should not be localized.
+downloadMessage = Shoku juaj po ju dërgon një kartelë me Portailpro Send, një shërbim që ju lejon të shkëmbeni kartela përmes një lidhjeje të parrezik, private, dhe të fshehtëzuar, që skadon automatikisht, për të garantuar që gjërat tuaja të mos mbeten në internet përgjithmonë.
+# Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = Shkarkoje
 downloadFinish = Shkarkim i Plotësuar
 fileSizeProgress = ({ $partialSize } nga { $totalSize }) gjithsej
-sendYourFilesLink = Provoni Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+sendYourFilesLink = Provoni Portailpro Send
+downloadingPageProgress = Po shkarkohet { $filename } ({ $size })
+downloadingPageMessage = Ju lutemi, lëreni hapur këtë skedë ndërkohë që ne sjellim dhe shfshehtëzojmë kartelën tuaj.
+errorAltText = Gabim ngarkimi
 errorPageHeader = Diç shkoi ters!
 fileTooBig = Kjo kartelë është shumë e madhe për ngarkim. Do të duhej të ishte më pak se { $size }.
 linkExpiredAlt = Lidhja skadoi
 notSupportedHeader = Shfletuesi juaj nuk mbulohet.
+# Portailpro Send is a brand name and should not be localized.
+notSupportedDetail = Mjerisht, ky shfletues nuk mbulon teknologjinë web mbi të cilën bazohet Portailpro Send.Do t’ju duhet të provoni një shfletues tjetër. Ju këshillojmë Firefox-in!
 notSupportedLink = Pse nuk mbulohet ky shfletues?
-notSupportedOutdatedDetail = Mjerisht, ky version i Firefox-it nuk e mbulon teknologjinë web mbi të cilën bazohet Firefox Send. Do t’ju duhet të përditësoni shfletuesin tuaj.
+notSupportedOutdatedDetail = Mjerisht, ky version i Firefox-it nuk e mbulon teknologjinë web mbi të cilën bazohet Portailpro Send. Do t’ju duhet të përditësoni shfletuesin tuaj.
 updateFirefox = Përditësojeni Firefox-in
+downloadFirefoxButtonSub = Shkarkim Falas
+uploadedFile = Kartelë
+copyFileList = Kopjo URL-në
+# expiryFileList is used as a column header
+expiryFileList = Skadon Më
+deleteFileList = Fshije
+nevermindButton = S’prish punë
+legalHeader = Kushte & Privatësi
+legalNoticeTestPilot = Portailpro Send është një eksperiment Pilot Testesh dhe subjekt i <a>Kushteve të Shërbimit</a> dhe <a>Shënim Privacësie</a> për Pilot Testesh. <a>Këtu</a> mund të mësoni më tepër mbi këtë eksperiment dhe grumbullimit të të dhënave që ai kryen.
+legalNoticeMozilla = Përdorimi i sajtit Portailpro Send është gjithashtu subjekt i <a>Shënimit Mbi Privatësi Sajtesh</a> të Mozilla-s dhe <a>Kushteve të Përdorimit të Sajtit</a>.
+deletePopupText = Të fshihet kjo kartelë?
+deletePopupYes = Po
 deletePopupCancel = Anuloje
 deleteButtonHover = Fshije
 footerLinkLegal = Ligjore
 footerLinkPrivacy = Privatësi
 footerLinkCookies = Cookies
 passwordTryAgain = Fjalëkalim i pasaktë. Riprovoni.
-javascriptRequired = Firefox Send lyp JavaScript
-whyJavascript = Ç’i duhet Firefox Send-it JavaScript-i?
+reportIPInfringement = Raportoni Cenim IP-je
+javascriptRequired = Portailpro Send lyp JavaScript
+whyJavascript = Ç’i duhet Portailpro Send-it JavaScript-i?
 enableJavascript = Ju lutemi, aktivizoni JavaScript-in dhe riprovoni.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }h { $minutes }m

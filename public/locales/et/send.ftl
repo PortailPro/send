@@ -1,6 +1,17 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
+siteSubtitle = veebieksperiment
 siteFeedback = Tagasiside
+uploadPageHeader = Privaatne ja krüpteeritud failiedastus
+uploadPageExplainer = Portailpro Send võimaldab saata faile üle ohutu, privaatse ja krüpteeritud kanali. Failid kustutatakse automaatselt, et need ei jääks internetti igaveseks.
+uploadPageLearnMore = Rohkem teavet
+uploadPageDropMessage = Faili üleslaadimiseks lohista see siia
+uploadPageSizeMessage = Parima kogemuse saamiseks tasub faili suurus hoida alla 1GB
+uploadPageBrowseButton = Vali fail arvutist
+uploadPageBrowseButton1 = Vali fail üleslaadimiseks
+uploadPageMultipleFilesAlert = Mitme faili või kausta üleslaadimine pole praegu toetatud.
+uploadPageBrowseButtonTitle = Laadi fail üles
+uploadingPageProgress = Faili { $filename } ({ $size }) üleslaadimine
 importingFile = Importimine...
 encryptingFile = Krüptimine…
 decryptingFile = Dekrüptimine...
@@ -17,25 +28,48 @@ timespanHours =
 copiedUrl = Kopeeritud!
 unlockInputPlaceholder = Parool
 unlockButtonLabel = Ava
+downloadFileTitle = Krüptitud faili allalaadimine
+# Portailpro Send is a brand name and should not be localized.
+downloadMessage = Sulle on saadetud fail Portailpro Sendiga - teenusega, mis lubab faile ohutult, privaatselt ja krüpteeritult jagada. Failid kustutatakse automaatselt, et need ei jääks internetti igaveseks.
+# Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = Laadi alla
 downloadFinish = Allalaadimine lõpetati
 fileSizeProgress = ({ $partialSize }/{ $totalSize })
-sendYourFilesLink = Proovi Firefox Send'i
+# Portailpro Send is a brand name and should not be localized.
+sendYourFilesLink = Proovi Portailpro Sendi
+downloadingPageProgress = Faili { $filename } ({ $size }) allalaadimine
+downloadingPageMessage = Palun jäta see kaart lahti, kuni fail on alla laaditud ja dekrüptitud.
+errorAltText = Viga üleslaadimisel
 errorPageHeader = Midagi läks valesti!
 fileTooBig = Fail on üleslaadimiseks liiga suur. See peaks olema väiksem kui { $size }.
 linkExpiredAlt = Link on aegunud
 notSupportedHeader = Sinu brauser pole toetatud.
+# Portailpro Send is a brand name and should not be localized.
+notSupportedDetail = Kahjuks ei toeta see brauser veebitehnoloogiaid, mis teevad Portailpro Sendi toimimise võimalikuks. Sa pead proovima teise brauseriga. Me soovitame Firefoxi!
 notSupportedLink = Miks mu brauser toetatud pole?
-notSupportedOutdatedDetail = Kahjuks ei toeta see Firefoxi versioon veebitehnoloogiaid, mis teevad Firefox Sendi toimimise võimalikuks. Sa pead oma brauserit uuendama.
+notSupportedOutdatedDetail = Kahjuks ei toeta see Firefoxi versioon veebitehnoloogiaid, mis teevad Portailpro Sendi toimimise võimalikuks. Sa pead oma brauserit uuendama.
 updateFirefox = Uuenda Firefox
+downloadFirefoxButtonSub = Laadi alla tasuta
+uploadedFile = Fail
+copyFileList = Kopeeri URL
+# expiryFileList is used as a column header
+expiryFileList = Aegub
+deleteFileList = Kustuta
+nevermindButton = Ära pane tähele
+legalHeader = Tingimused ja privaatsusreeglid
+legalNoticeTestPilot = Portailpro Send on praegu Test Piloti eksperiment ja sellele rakenduvad Test Piloti <a>teenusetingimused</a> ning <a>privaatsusreeglid</a>. Rohkem teavet selle eksperimendi ja kogutavate andmete kohta leiab <a>siit</a>.
+legalNoticeMozilla = Portailpro Sendi veebilehe kasutamisele rakenduvad ka Mozilla <a>veebilehtede privaatsusreeglid</a> ja <a>veebilehtede teenusetingimused</a>.
+deletePopupText = Kas kustutada see fail?
+deletePopupYes = Jah
 deletePopupCancel = Loobu
 deleteButtonHover = Kustuta
 footerLinkLegal = Õiguslik teave
 footerLinkPrivacy = Privaatsusest
 footerLinkCookies = Küpsistest
 passwordTryAgain = Vale parool. Palun proovi uuesti.
-javascriptRequired = Firefox Send'i kasutamiseks tuleb JavaScript lubada
-whyJavascript = Miks Firefox Send JavaScripti vajab?
+reportIPInfringement = Intellektuaalomandi keelatud kasutamise raporteerimine
+javascriptRequired = Portailpro Send'i kasutamiseks tuleb JavaScript lubada
+whyJavascript = Miks Portailpro Send JavaScripti vajab?
 enableJavascript = Palun luba JavaScript ja proovi uuesti.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }t { $minutes }m

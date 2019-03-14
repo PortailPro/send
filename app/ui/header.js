@@ -24,7 +24,7 @@ class Header extends Component {
             <a class=""><img src="${assets.get('logo.svg')}"/></a>
           `
         : html`
-            <a class="" href="/"><img src="${assets.get('logo.svg')}"/></a>
+            <a class="" href="/"><img src="${assets.get('portailpro-logo.png')}"/></a>
           `;
     return html`
       <header

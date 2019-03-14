@@ -1,6 +1,17 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
-siteFeedback = Comentarios
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
+siteSubtitle = esperimentu web
+siteFeedback = Feedback
+uploadPageHeader = Compartición privada y cifrada de ficheros
+uploadPageExplainer = Unvia ficheros pente un enllaz seguru, priváu y cifráu que caduca automáticamente p'asegurar que les tos coses nun queden siempres na rede.
+uploadPageLearnMore = Deprendi más
+uploadPageDropMessage = Suelta equí'l to ficheru p'aniciar la xuba
+uploadPageSizeMessage = Pal meyor funcionamientu, lo meyor ye que'l to ficheru seya menor de 1GB
+uploadPageBrowseButton = Esbilla un ficheru nel to ordenador
+uploadPageBrowseButton1 = Esbilla un ficheru pa unviar
+uploadPageMultipleFilesAlert = Anguaño nun se sofita la xuba múltiple de ficheros o carpetes.
+uploadPageBrowseButtonTitle = Xubir ficheru
+uploadingPageProgress = Xubiendo { $filename } ({ $size })
 importingFile = Importando...
 encryptingFile = Cifrando...
 decryptingFile = Descifrando...
@@ -17,25 +28,50 @@ timespanHours =
 copiedUrl = ¡Copióse!
 unlockInputPlaceholder = Contraseña
 unlockButtonLabel = Desbloquiar
+downloadFileTitle = Baxar ficheru cifráu
+# Portailpro Send is a brand name and should not be localized.
+downloadMessage = El to collaciu unvióte un ficheru usando Portailpro Send, un serviciu que te permite compartir ficheros con un enllaz seguru, priváu y cifráu que caduca automáticamente p'asegurar que les to coses nun queden siempres na rede.
+# Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = Baxar
 downloadFinish = Completóse la descarga
 fileSizeProgress = ({ $partialSize } de { $totalSize })
-sendYourFilesLink = Probar Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+sendYourFilesLink = Prueba Portailpro Send
+downloadingPageProgress = Baxando { $filename } ({ $size })
+downloadingPageMessage = Dexa esta llingüeta abierta entrín vamos en cata del to ficheru y lu desciframos, por favor.
+errorAltText = Fallu de xuba
 errorPageHeader = ¡Daqué foi mal!
 fileTooBig = Esti ficheru ye mui grande como pa xubilu. Debería tener menos de { $size }.
 linkExpiredAlt = Caducó l'enllaz
 notSupportedHeader = El to restolador nun ta sofitáu.
+# Portailpro Send is a brand name and should not be localized.
+notSupportedDetail = Desafortunadamente esti restolador nun sofita la teunoloxía web qu'usa Portailpro Send. Precisarás d'usar otru restolador. ¡Aconseyámoste Firefox!
 notSupportedLink = ¿Por qué'l mio restolador nun ta sofitáu?
-notSupportedOutdatedDetail = Desafortunadamente esta versión de Firefox nun sofita la teunoloxía web qu'usa Firefox Send. Vas precisar anovar Firefox.
+notSupportedOutdatedDetail = Desafortunadamente esta versión de Firefox nun sofita la teunoloxía web qu'usa Portailpro Send. Precisarás d'anovar Firefox.
 updateFirefox = Anovar Firefox
+downloadFirefoxButtonSub = Descarga de baldre
+uploadedFile = Ficheru
+copyFileList = Copiar URL
+# expiryFileList is used as a column header
+expiryFileList = Caduca en
+deleteFileList = Desaniciar
+nevermindButton = Nun m'importa
+legalHeader = Términos y privacidá
+legalNoticeTestPilot = Anguaño Portailpro Send ye un esperimentu de Test Pilot y ta suxetu a los <a>Términos de serviciu</a> y l'<a>Avisu de privacidá</a> de Test Pilot. <a>Equí</a> pues deprender más tocante a esti esperimentu y la so recoyida de datos.
+legalNoticeMozilla = L'usu de Portailpro Send tamién ta suxetu al <a>Avisu de privacidá</a> y a los <a>Términos d'usu de la páxina web</a> de Mozilla.
+deletePopupText = ¿Desaniciar esti ficheru?
+deletePopupYes = Sí
 deletePopupCancel = Encaboxar
 deleteButtonHover = Desaniciar
 footerLinkLegal = Llegal
 footerLinkPrivacy = Privacidá
 footerLinkCookies = Cookies
-passwordTryAgain = La contraseña ye incorreuta. Volvi tentalo.
-javascriptRequired = Firefox Send rique JavaScript
-whyJavascript = ¿Por qué Firefox Send rique JavaScript?
+requirePasswordCheckbox = Riquir una contraseña pa baxar esti ficheru
+addPasswordButton = Amestar contraseña
+changePasswordButton = Camudar
+passwordTryAgain = Contraseña incorreuta. Volvi tentalo.
+javascriptRequired = Portailpro Send rique JavaScript
+whyJavascript = ¿Por qué Portailpro Send rique JavaScript?
 enableJavascript = Activa JavaScript y volvi tentalo, por favor.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }h { $minutes }m

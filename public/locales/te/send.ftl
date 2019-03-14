@@ -1,5 +1,5 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
 siteSubtitle = జాల ప్రయోగం
 siteFeedback = అభిప్రాయం
 uploadPageLearnMore = ఇంకా తెలుసుకోండి
@@ -58,8 +58,8 @@ downloadNotification = మీ దిగుమతి పూర్తయ్యి�
 downloadFinish = దిగుమతి పూర్తయింది
 # This message is displayed when uploading or downloading a file, e.g. "(1,3 MB of 10 MB)".
 fileSizeProgress = { $totalSize }) యొక్క ({ $partialSize }
-# Firefox Send is a brand name and should not be localized.
-sendYourFilesLink = Firefox sendను ప్రయత్నించండి
+# Portailpro Send is a brand name and should not be localized.
+sendYourFilesLink = Portailpro Sendను ప్రయత్నించండి
 downloadingPageProgress = దిగుమతిచేస్తున్నది { $filename } ({ $size })
 errorAltText = ఎగుమతిలో లోపం
 errorPageHeader = ఏదో తప్పిదం జరిగింది!
@@ -96,8 +96,8 @@ addPasswordButton = సంకేతపదం జోడించండి
 changePasswordButton = మార్చు
 passwordTryAgain = సరికాని సంకేతపదం. మళ్ళీ ప్రయత్నించండి.
 reportIPInfringement = మేధో సంపత్తి హక్కుల ఉల్లంఘనను నివేదించండి
-javascriptRequired = Firefox Sendకి జావాస్క్రిప్టు కావాలి
-whyJavascript = Firefox Sendకి జావాస్క్రిప్టు ఎందుకు కావాలి?
+javascriptRequired = Portailpro Sendకి జావాస్క్రిప్టు కావాలి
+whyJavascript = Portailpro Sendకి జావాస్క్రిప్టు ఎందుకు కావాలి?
 enableJavascript = జావాస్క్రిప్టు చేతనంచేసి మళ్ళీ ప్రయత్నించండి.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }గం { $minutes }ని

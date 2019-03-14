@@ -1,5 +1,6 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
+siteSubtitle = веб-експеримент
 siteFeedback = Відгуки
 importingFile = Імпортуємо...
 encryptingFile = Шифруємо...
@@ -19,25 +20,48 @@ timespanHours =
 copiedUrl = Скопійовано!
 unlockInputPlaceholder = Пароль
 unlockButtonLabel = Розблокувати
+downloadFileTitle = Завантажити зашифрований файл
+# Portailpro Send is a brand name and should not be localized.
+downloadMessage = Ваш друг надіслав файл за допомогою Portailpro Send, який дозволяє ділитися файлами, використовуючи безпечні, приватні та зашифровані посилання, термін дії яких автоматично закінчується, щоб ваші файли не лишилися в Інтернеті назавжди.
+# Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = Завантажити
 downloadFinish = Завантаження завершено
 fileSizeProgress = ({ $partialSize } з { $totalSize })
-sendYourFilesLink = Спробуйте Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+sendYourFilesLink = Спробуйте Portailpro Send
+downloadingPageProgress = Завантаження { $filename } ({ $size })
+downloadingPageMessage = Будь ласка, залиште цю вкладку відкритою, поки ми завантажуємо ваш файл і розшифровуємо його.
+errorAltText = Помилка вивантаження
 errorPageHeader = Щось пішло не так!
 fileTooBig = Цей файл завеликий для вивантаження. Він має бути меншим за { $size }.
 linkExpiredAlt = Час дії посилання минув
 notSupportedHeader = Ваш браузер не підтримується.
+# Portailpro Send is a brand name and should not be localized.
+notSupportedDetail = На жаль, цей браузер не підтримує веб-технологію, завдяки якій працює Portailpro Send. Вам треба скористатися іншим браузером. Ми рекомендуємо Firefox!
 notSupportedLink = Чому мій браузер не підтримується?
-notSupportedOutdatedDetail = На жаль, ця версія Firefox не підтримує веб-технологію, завдяки якій працює Firefox Send. Вам потрібно оновити свій браузер.
+notSupportedOutdatedDetail = На жаль, ця версія Firefox не підтримує веб-технологію, завдяки якій працює Portailpro Send. Вам потрібно оновити свій браузер.
 updateFirefox = Оновити Firefox
+downloadFirefoxButtonSub = Безкоштовне завантаження
+uploadedFile = Файл
+copyFileList = Копіювати URL
+# expiryFileList is used as a column header
+expiryFileList = Термін дії закінчується
+deleteFileList = Видалити
+nevermindButton = Не важливо
+legalHeader = Умови та конфіденційність
+legalNoticeTestPilot = Portailpro Send в даний час є експериментом Test Pilot, і тому підпадає під <a>умови служби</a> і <a>повідомлення про приватність</a> Test Pilot. Ви можете дізнатись більше про цей експеримент і його збір даних <a>тут</a>.
+legalNoticeMozilla = Використання сайту Portailpro Send також підпадає під <a>повідомлення про конфіденційність веб-сайтів</a> та <a>правила використання веб-сайтів</a> Mozilla.
+deletePopupText = Видалити цей файл?
+deletePopupYes = Так
 deletePopupCancel = Скасувати
 deleteButtonHover = Видалити
 footerLinkLegal = Права
 footerLinkPrivacy = Приватність
 footerLinkCookies = Куки
 passwordTryAgain = Невірний пароль. Спробуйте знову.
-javascriptRequired = Firefox Send потребує JavaScript
-whyJavascript = Чому для Firefox Send потрібен JavaScript?
+reportIPInfringement = Повідомити про порушення прав на інтелектуальну власність
+javascriptRequired = Portailpro Send потребує JavaScript
+whyJavascript = Чому для Portailpro Send потрібен JavaScript?
 enableJavascript = Будь ласка, увімкніть JavaScript та спробуйте знову.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours } год. { $minutes } хв.
@@ -48,10 +72,10 @@ maxPasswordLength = Найбільша довжина паролю: { $length }
 # A short status message shown when there was an error setting the password
 passwordSetError = Неможливо встановити цей пароль
 
-## Send version 2 strings
+## New strings for the vNext version of Portailpro Send
 
-# Firefox Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Firefox Send
+# Portailpro Send, Send, Firefox, Mozilla are proper names and should not be localized
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

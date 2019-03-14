@@ -1,5 +1,6 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
+siteSubtitle = web-kokeilu
 siteFeedback = Palaute
 importingFile = Tuodaan…
 encryptingFile = Salataan...
@@ -17,17 +18,39 @@ timespanHours =
 copiedUrl = Kopioitu!
 unlockInputPlaceholder = Salasana
 unlockButtonLabel = Avaa
+downloadFileTitle = Lataa salattu tiedosto
+# Portailpro Send is a brand name and should not be localized.
+downloadMessage = Ystäväsi lähettää sinulle tiedoston Portailpro Send -palvelulla, jonka avulla voidaan jakaa tiedostoja turvallisen, yksityisen ja salatun linkin kautta. Linkki vanhenee automaattisesti, joten tiedot eivät säily verkossa ikuisesti.
+# Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = Lataa
 downloadFinish = Lataus valmis
 fileSizeProgress = { $partialSize } / { $totalSize }
-sendYourFilesLink = Kokeile Firefox Send -palvelua
+# Portailpro Send is a brand name and should not be localized.
+sendYourFilesLink = Kokeile Portailpro Sendiä
+downloadingPageProgress = Ladataan { $filename } ({ $size })
+downloadingPageMessage = Jätä tämä välilehti auki siksi aikaa kun haemme tiedoston ja puramme sen.
+errorAltText = Latausvirhe
 errorPageHeader = Jokin meni pieleen!
 fileTooBig = Tämä tiedosto on liian suuri ladattavaksi. Sen pitäisi olla pienempi kuin { $size }.
 linkExpiredAlt = Linkki on vanhentunut
 notSupportedHeader = Selaintasi ei tueta.
+# Portailpro Send is a brand name and should not be localized.
+notSupportedDetail = Valitettavasti tämä selain ei tue Portailpro Sendiä käyttävää web-tekniikkaa. Sinun on kokeiltava toista selainta. Suosittelemme Firefoxia!
 notSupportedLink = Miksi selaintani ei tueta?
-notSupportedOutdatedDetail = Valitettavasti tämä Firefoxin versio ei tue Firefox Sendiä käyttävää web-tekniikkaa. Sinun on päivitettävä selaimesi.
+notSupportedOutdatedDetail = Valitettavasti tämä Firefoxin versio ei tue Portailpro Sendiä käyttävää web-tekniikkaa. Sinun on päivitettävä selaimesi.
 updateFirefox = Päivitä Firefox
+downloadFirefoxButtonSub = Ilmainen lataus
+uploadedFile = Tiedosto
+copyFileList = Kopioi osoite
+# expiryFileList is used as a column header
+expiryFileList = Vanhenee
+deleteFileList = Poista
+nevermindButton = Unohda koko juttu
+legalHeader = Ehdot ja yksityisyys
+legalNoticeTestPilot = Portailpro Send on tällä hetkellä Test Pilot -kokeilu, ja siihen sovelletaan Test Pilot <a>käyttöehtoja</a> ja <a>tietosuojakäytäntöjä</a>. Saat lisätietoja tästä kokeilusta ja sen tiedonkeruusta <a>täällä</a>.
+legalNoticeMozilla = Portailpro Send -sivuston käyttöön sovelletaan Mozillan <a>verkkosivustojen yksityisyyskäytäntöjä</a> ja <a>verkkosivustojen käyttöehtoja</a>.
+deletePopupText = Poista tämä tiedosto?
+deletePopupYes = Kyllä
 deletePopupCancel = Peruuta
 deleteButtonHover = Poista
 footerLinkLegal = Juridiset asiat
@@ -35,7 +58,7 @@ footerLinkPrivacy = Tietosuoja
 footerLinkCookies = Evästeet
 passwordTryAgain = Väärä salasana. Yritä uudelleen.
 javascriptRequired = Firefox-Send vaatii JavaScriptin
-whyJavascript = Miksi Firefox Send vaatii JavaScriptin?
+whyJavascript = Miksi Portailpro Send vaatii JavaScriptin?
 enableJavascript = Ota JavaScript käyttöön ja yritä uudelleen.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours } t { $minutes } min

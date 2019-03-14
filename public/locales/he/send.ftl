@@ -1,5 +1,5 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
 siteSubtitle = ניסוי אינטרנט
 siteFeedback = משוב
 uploadPageHeader = שיתוף קבצים פרטי, מוצפן

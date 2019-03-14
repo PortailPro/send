@@ -1,5 +1,6 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
+siteSubtitle = веб експеримент
 siteFeedback = Повратне информације
 importingFile = Увозим…
 encryptingFile = Шифрујем…
@@ -19,25 +20,48 @@ timespanHours =
 copiedUrl = Ископирано!
 unlockInputPlaceholder = Лозинка
 unlockButtonLabel = Откључај
+downloadFileTitle = Преузми шифровану датотеку
+# Portailpro Send is a brand name and should not be localized.
+downloadMessage = Ваш пријатељ вам је послао датотеку преко услуге Portailpro Send која вам омогућава да делите датотеке преко безбедне, приватне и шифроване везе која самостално истиче да ваше ствари не би остале на нету заувек.
+# Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = Преузми
 downloadFinish = Преузимање је завршено.
 fileSizeProgress = ({ $partialSize } од { $totalSize })
-sendYourFilesLink = Испробајте Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+sendYourFilesLink = Испробајте Portailpro Send
+downloadingPageProgress = Преузимам датотеку { $filename } ({ $size })
+downloadingPageMessage = Оставите овај језичак отвореним док не добавимо вашу датотеку и док је не дешифрујемо.
+errorAltText = Грешка при отпремању
 errorPageHeader = Нешто је пошло наопако!
 fileTooBig = Та датотека је превелика за отпремање. Треба да буде мања од { $size }.
 linkExpiredAlt = Веза је истекла
 notSupportedHeader = Ваш прегледач није подржан.
+# Portailpro Send is a brand name and should not be localized.
+notSupportedDetail = Нажалост, овај прегледач не подржава веб технологију која омогућава Portailpro Send. Мораћете да пробате са другим прегледачем. Ми предлажемо Firefox!
 notSupportedLink = Зашто мој прегледач није подржан?
-notSupportedOutdatedDetail = Нажалост, ово издање Firefox-a не подржава веб технологију која омогућава Firefox Send. Мораћете да ажурирате ваш прегледач.
+notSupportedOutdatedDetail = Нажалост, ово издање Firefox-a не подржава веб технологију која омогућава Portailpro Send. Мораћете да ажурирате ваш прегледач.
 updateFirefox = Ажурирај Firefox
+downloadFirefoxButtonSub = Бесплатно преузимање
+uploadedFile = Датотека
+copyFileList = URL за копирање
+# expiryFileList is used as a column header
+expiryFileList = Истиче за
+deleteFileList = Брисање
+nevermindButton = Занемари
+legalHeader = Услови и приватност
+legalNoticeTestPilot = Portailpro Send је тренутно Тест Пилот експеримент и подложан је <a>условима коришћења</a> Тест Пилота и <a>обавештењем о приватности</a>. Можете сазнати више о овом експерименту и о његовом сакупљању података <a>овде</a>.
+legalNoticeMozilla = Коришћење Portailpro Send веб сајта подлеже Mozilla-ином <a>обавештењу о приватности на веб сајтовима</a> и <a>условима коришћења веб сајтова</a>.
+deletePopupText = Обрисати ову датотеку?
+deletePopupYes = Да
 deletePopupCancel = Откажи
 deleteButtonHover = Обриши
 footerLinkLegal = Правни подаци
 footerLinkPrivacy = Приватност
 footerLinkCookies = Колачићи
 passwordTryAgain = Нетачна лозинка. Пробајте поново.
-javascriptRequired = За Firefox Send је потребан JavaScript
-whyJavascript = Зашто је потребан JavaScript за Firefox Send?
+reportIPInfringement = Пријавите IP прекршај
+javascriptRequired = За Portailpro Send је потребан JavaScript
+whyJavascript = Зашто је потребан JavaScript за Portailpro Send?
 enableJavascript = Омогућите JavaScript и пробајте поново.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }ч { $minutes }м

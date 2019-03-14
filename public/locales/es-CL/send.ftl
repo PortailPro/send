@@ -1,5 +1,6 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
+siteSubtitle = experimento web
 siteFeedback = Comentarios
 importingFile = Importando…
 encryptingFile = Cifrando…
@@ -17,25 +18,48 @@ timespanHours =
 copiedUrl = ¡Copiado!
 unlockInputPlaceholder = Contraseña
 unlockButtonLabel = Desbloquear
+downloadFileTitle = Bajar archivo cifrado
+# Portailpro Send is a brand name and should not be localized.
+downloadMessage = Tu amigo te está enviando un archivo con Portailpro Send, un servicio que te permite compartir archivos con un enlace seguro, privado y cifrado que expira automáticamente para asegurar que tus cosas no queden en línea de por vida.
+# Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = Descargar
 downloadFinish = Descarga completa
 fileSizeProgress = ({ $partialSize } de { $totalSize })
-sendYourFilesLink = Probar Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+sendYourFilesLink = Probar Portailpro Send
+downloadingPageProgress = Descargando { $filename } ({ $size })
+downloadingPageMessage = Por favor, deja esta pestaña abierta mientras recibimos tu archivo y lo desciframos.
+errorAltText = Error de subida
 errorPageHeader = ¡Algo se fue a las pailas!
 fileTooBig = Ese archivo es muy grande para ser subido. Debiera tener un tamaño menor a { $size }.
 linkExpiredAlt = Enlace expirado
 notSupportedHeader = Tu navegador no está soportado.
+# Portailpro Send is a brand name and should not be localized.
+notSupportedDetail = Lamentablemente este navegador no soporta la tecnología web que potencia a Portailpro Send. Deberás probar en otro navegador. ¡Recomendamos Firefox!
 notSupportedLink = ¿Por qué mi navegador no es soportado?
-notSupportedOutdatedDetail = Lamentablemente esta versión de Firefox no soporta la tecnología web que potencia a Firefox Send. Deberás actualizar tu navegador.
+notSupportedOutdatedDetail = Lamentablemente esta versión de Firefox no soporta la tecnología web que potencia a Portailpro Send. Deberás actualizar tu navegador.
 updateFirefox = Actualizar Firefox
+downloadFirefoxButtonSub = Descarga gratuita
+uploadedFile = Archivo
+copyFileList = Copiar URL
+# expiryFileList is used as a column header
+expiryFileList = Expira en
+deleteFileList = Eliminar
+nevermindButton = Da lo mismo
+legalHeader = Términos y privacidad
+legalNoticeTestPilot = Portailpro Send es actualmente un experimento de Test Pilot, y está sujeto a los <a>Términos del servicio</a> y la <a>Política de privacidad</a> de Test Pilot. Puedes aprender más sobre este experimento y su recolección de datos <a>aquí</a>.
+legalNoticeMozilla = El uso del sitio web de Portailpro Send también está sujeto a la <a>Política de privacidad de sitios web</a> y los <a>Términos de uso de sitios web</a> de Mozilla.
+deletePopupText = ¿Eliminar este archivo?
+deletePopupYes = Sí
 deletePopupCancel = Cancelar
 deleteButtonHover = Eliminar
 footerLinkLegal = Legal
 footerLinkPrivacy = Privacidad
 footerLinkCookies = Cookies
 passwordTryAgain = Contraseña incorrecta. Vuelve a intentarlo.
-javascriptRequired = Firefox Send requiere JavaScript.
-whyJavascript = ¿Por qué Firefox Send requiere JavaScript?
+reportIPInfringement = Reportar infracción de PI
+javascriptRequired = Portailpro Send requiere JavaScript.
+whyJavascript = ¿Por qué Portailpro Send requiere JavaScript?
 enableJavascript = Por favor, activa JavaScript y vuelve a intentarlo.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }h { $minutes }m

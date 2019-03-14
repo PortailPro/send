@@ -1,5 +1,6 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Portailpro Send is a brand name and should not be localized.
+title = Portailpro Send
+siteSubtitle = 웹 실험
 siteFeedback = 사용자 의견
 importingFile = 가져오는 중…
 encryptingFile = 암호화 중…
@@ -9,25 +10,48 @@ timespanHours = 1 시간
 copiedUrl = 복사 완료!
 unlockInputPlaceholder = 비밀번호
 unlockButtonLabel = 잠금 해제
+downloadFileTitle = 암호화된 파일 다운로드
+# Portailpro Send is a brand name and should not be localized.
+downloadMessage = 당신의 친구가 Portailpro Send를 통해 파일을 보내고 있습니다. 이 서비스는 안전하고, 개인적이며, 암호화된 링크를 통해 파일을 공유하는 서비스입니다. 사용자의 파일이 더 이상 온라인 상에 남지 않도록 링크는 자동적으로 만료됩니다.
+# Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = 다운로드
 downloadFinish = 다운로드 완료
 fileSizeProgress = ({ $partialSize } / { $totalSize })
-sendYourFilesLink = Firefox Send 써보기
+# Portailpro Send is a brand name and should not be localized.
+sendYourFilesLink = Portailpro Send 써보기
+downloadingPageProgress = { $filename } ({ $size }) 다운로드 중
+downloadingPageMessage = 파일을 가져오고 복호화하는 동안 탭을 닫지 말아주세요.
+errorAltText = 업로드 오류
 errorPageHeader = 오류가 발생했습니다!
 fileTooBig = 파일의 크기가 너무 큽니다. { $size } 보다 작아야 합니다.
 linkExpiredAlt = 링크가 만료됨
 notSupportedHeader = 이 브라우저는 지원되지 않습니다.
+# Portailpro Send is a brand name and should not be localized.
+notSupportedDetail = 안타깝게도 이 브라우저는 Portailpro Send에 사용되는 웹 기술을 지원하지 않습니다. 다른 브라우저로 다시 시도해주세요. Firefox를 추천합니다!
 notSupportedLink = 왜 이 브라우저는 지원이 되지 않나요?
-notSupportedOutdatedDetail = 안타깝게도 사용중인 Firefox 버전에서는 Firefox Send에 사용되는 웹 기술을 지원하지 않습니다. 브라우저 업데이트가 필요합니다.
+notSupportedOutdatedDetail = 안타깝게도 현재 브라우저 버전에서는 Portailpro Send에 사용되는 웹 기술을 지원하지 않습니다. 브라우저 업데이트가 필요합니다.
 updateFirefox = Firefox 업데이트
+downloadFirefoxButtonSub = 무료 다운로드
+uploadedFile = 파일
+copyFileList = URL 복사
+# expiryFileList is used as a column header
+expiryFileList = 만료기한
+deleteFileList = 삭제
+nevermindButton = 괜찮습니다
+legalHeader = 이용약관 & 개인정보 보호
+legalNoticeTestPilot = Portailpro Send는 현재 Test Pilot 실험 중이고, Test Pilot <a>이용 약관</a>과 <a>개인정보 보호공지</a>가 적용됩니다. 이 실험과 데이터 수집에 관해서는 <a>여기</a>에서 더 알아볼 수 있습니다.
+legalNoticeMozilla = 또한, Portailpro Send 웹사이트 사용에는 <a>웹사이트 개인정보 공지</a>와 <a>웹 사이트 이용약관</a>이 적용됩니다.
+deletePopupText = 이 파일을 지우시겠습니까?
+deletePopupYes = 예
 deletePopupCancel = 아니오
 deleteButtonHover = 삭제
 footerLinkLegal = 법적 정보
 footerLinkPrivacy = 개인정보 보호
 footerLinkCookies = 쿠키
 passwordTryAgain = 비밀번호가 맞지 않습니다. 다시 시도해 주세요.
-javascriptRequired = Firefox Send는 자바스크립트를 필요로 합니다
-whyJavascript = 왜 Firefox Send에 자바스크립트가 필요하죠?
+reportIPInfringement = 지적 재산권 침해 신고
+javascriptRequired = Portailpro Send는 자바스크립트를 필요로 합니다
+whyJavascript = 왜 Portailpro Send에 자바스크립트가 필요하죠?
 enableJavascript = 자바스크립트를 활성화하고 다시 시도해 주세요.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }시간 { $minutes }분
