@@ -1,4 +1,4 @@
-# Integration Tests for [Firefox Send](https://send.firefox.com/).
+# Integration Tests for [Portailpro Send](https://send.firefox.com/).
 ## How to run the tests locally
 ### Clone the repository
 

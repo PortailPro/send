@@ -2,8 +2,7 @@
 const assert = require('assert');
 const HomePage = require('./pages/desktop/home_page');
 
-describe('Firefox Send homepage', function() {
-  this.retries(2);
+describe('Portailpro Send homepage', function() {
   const homePage = new HomePage();
   const baseUrl = browser.options['baseUrl'];
   const footerLinks = ['mozilla', 'legal', 'legal', 'cookies', 'github'];
@@ -16,7 +15,7 @@ describe('Firefox Send homepage', function() {
   });
 
   it('should have the right title', function() {
-    assert.equal(browser.getTitle(), 'Firefox Send');
+    assert.equal(browser.getTitle(), 'Portailpro Send');
   });
 
   footerLinks.forEach((link, i) => {
