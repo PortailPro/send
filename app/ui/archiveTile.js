@@ -258,7 +258,7 @@ module.exports = function(state, emit, archive) {
           title: state.translate('-send-brand'),
           text: `Download "${
             archive.name
-          }" with Firefox Send: simple, safe file sharing`,
+          }" with Portailpro Send: simple, safe file sharing`,
           //state.translate('shareMessage', { name }),
           url: archive.url
         });

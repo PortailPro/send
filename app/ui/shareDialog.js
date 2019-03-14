@@ -42,7 +42,8 @@ module.exports = function(name, url) {
       try {
         await navigator.share({
           title: state.translate('-send-brand'),
-          text: state.translate('shareMessage', { name }),
+          text: `Download "${name}" with Portailpro Send: simple, safe file sharing`,
+          //state.translate('shareMessage', { name }),
           url
         });
       } catch (e) {
