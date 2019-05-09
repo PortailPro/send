@@ -13,3 +13,7 @@ send-upload-area > button:not(#upload-btn) {
 footer.flex {
   display: none;
 }
+
+send-promo.md\:flex {
+    display: none;
+}
