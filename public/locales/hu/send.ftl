@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Importálás…
 encryptingFile = Titkosítás…
 decryptingFile = Visszafejtés…
@@ -43,7 +43,7 @@ passwordSetError = Ez a jelszó nem állítható be
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

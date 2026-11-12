@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = 匯入中…
 encryptingFile = 加密中…
 decryptingFile = 解密中…
@@ -46,7 +46,7 @@ passwordSetError = 無法設定此密碼
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

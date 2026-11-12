@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Se importă…
 encryptingFile = Se criptează…
 decryptingFile = Se decriptează…
@@ -45,7 +45,7 @@ passwordSetError = Această parolă nu a putut fi setată
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = Portailpro Send
 importingFile = 가져오는 중…
 encryptingFile = 암호화 중…
 decryptingFile = 복호화 중…
@@ -36,7 +36,7 @@ passwordSetError = 이 비밀번호를 설정할 수 없었습니다
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

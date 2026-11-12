@@ -3,9 +3,16 @@ const assets = require('../common/assets');
 const initScript = require('./initScript');
 
 module.exports = function(state, body = '') {
-  const custom_css = state.ui.assets.custom_css !== ''
-    ? html`<link rel="stylesheet" type="text/css" href="${state.ui.assets.custom_css}" />`
-    : ''
+  const custom_css =
+    state.ui.assets.custom_css !== ''
+      ? html`
+          <link
+            rel="stylesheet"
+            type="text/css"
+            href="${state.ui.assets.custom_css}"
+          />
+        `
+      : '';
 
   return html`
     <!DOCTYPE html>
@@ -28,8 +35,8 @@ module.exports = function(state, body = '') {
         <meta property="og:image" content="${state.ui.assets.facebook}" />
         <meta name="twitter:image" content="${state.ui.assets.twitter}" />
         <meta property="og:url" content="${state.baseUrl}" />
-        <meta name="theme-color" content="#220033" />
-        <meta name="msapplication-TileColor" content="#220033" />
+        <meta name="theme-color" content="#0000f5" />
+        <meta name="msapplication-TileColor" content="#0000f5" />
 
         <link rel="manifest" href="/app.webmanifest" />
         <link rel="stylesheet" type="text/css" href="/inter.css" />
@@ -65,7 +72,7 @@ module.exports = function(state, body = '') {
         <link
           rel="mask-icon"
           href="${state.ui.assets.safari_pinned_tab}"
-          color="#838383"
+          color="#0000f5"
         />
         <script defer src="${assets.get('app.js')}"></script>
       </head>

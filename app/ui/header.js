@@ -18,39 +18,27 @@ class Header extends Component {
   }
 
   createElement() {
-    let assetMap = {};
-    if (this.state.ui !== undefined) assetMap = this.state.ui.assets;
-    else
-      assetMap = {
-        icon:
-          this.state.WEB_UI.CUSTOM_ASSETS.icon !== ''
-            ? this.state.WEB_UI.CUSTOM_ASSETS.icon
-            : assets.get('icon.svg'),
-        wordmark:
-          this.state.WEB_UI.CUSTOM_ASSETS.wordmark !== ''
-            ? this.state.WEB_UI.CUSTOM_ASSETS.wordmark
-            : assets.get('wordmark.svg') + '#logo'
-      };
+    // PortailPro logo (blue on light theme, white on dark theme)
+    const logo = html`
+      <picture>
+        <source
+          srcset="${assets.get('portailpro-logo-white.png')}"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img
+          class="portailpro-logo"
+          alt="${this.state.translate('title')}"
+          src="${assets.get('portailpro-logo.png')}"
+        />
+      </picture>
+    `;
     const title =
       platform() === 'android'
         ? html`
-            <a class="flex flex-row items-center">
-              <img src="${assetMap.icon}" />
-              <svg class="w-48">
-                <use xlink:href="${assetMap.wordmark}" />
-              </svg>
-            </a>
+            <a class="flex flex-row items-center">${logo}</a>
           `
         : html`
-            <a class="flex flex-row items-center" href="/">
-              <img
-                alt="${this.state.translate('title')}"
-                src="${assetMap.icon}"
-              />
-              <svg viewBox="66 0 340 64" class="w-48 md:w-64">
-                <use xlink:href="${assetMap.wordmark}" />
-              </svg>
-            </a>
+            <a class="flex flex-row items-center" href="/">${logo}</a>
           `;
     return html`
       <header

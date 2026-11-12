@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Importimine...
 encryptingFile = Krüptimine…
 decryptingFile = Dekrüptimine...
@@ -43,7 +43,7 @@ passwordSetError = Parooli muutmine ebaõnnestus
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

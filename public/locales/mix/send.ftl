@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Ndakiin…
 encryptingFile = Ndasami tu'un…
 decryptingFile = Nchiko tu'un…
@@ -43,7 +43,7 @@ passwordSetError = Ma ku ntanii tu'un see
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Uvažanje …
 encryptingFile = Šifriranje ...
 decryptingFile = Dešifriranje ...
@@ -47,7 +47,7 @@ passwordSetError = Gesla ni mogoče nastaviti
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox =
     { $sklon ->

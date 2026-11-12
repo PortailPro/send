@@ -1,6 +1,8 @@
 node_modules
 coverage
+datas
 dist
+release
 .env
 .idea
 .DS_Store

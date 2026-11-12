@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Hìaj a'nïn huan'ānj…
 encryptingFile = Nagi'iaj hùij…
 decryptingFile = Hìaj nâ'nïn…
@@ -43,7 +43,7 @@ passwordSetError = Na'ue gārayinaj da'nga huìi
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

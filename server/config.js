@@ -1,8 +1,6 @@
 const convict = require('convict');
 const convict_format_with_validator = require('convict-format-with-validator');
-const { tmpdir } = require('os');
 const path = require('path');
-const { randomBytes } = require('crypto');
 
 convict.addFormats(convict_format_with_validator);
 
@@ -49,7 +47,7 @@ const conf = convict({
   },
   expire_times_seconds: {
     format: 'positive-int-array',
-    default: [300, 3600, 86400, 604800],
+    default: [300, 3600, 86400, 604800, 86400 * 30],
     env: 'EXPIRE_TIMES_SECONDS'
   },
   default_expire_seconds: {
@@ -59,7 +57,7 @@ const conf = convict({
   },
   max_expire_seconds: {
     format: Number,
-    default: 86400 * 7,
+    default: 86400 * 30,
     env: 'MAX_EXPIRE_SECONDS'
   },
   download_counts: {
@@ -155,7 +153,7 @@ const conf = convict({
   },
   max_file_size: {
     format: Number,
-    default: 1024 * 1024 * 1024 * 2.5,
+    default: 1024 * 1024 * 1024 * 10,
     env: 'MAX_FILE_SIZE'
   },
   l10n_dev: {
@@ -170,7 +168,7 @@ const conf = convict({
   },
   custom_title: {
     format: String,
-    default: 'Send',
+    default: 'Portailpro Send',
     env: 'CUSTOM_TITLE'
   },
   custom_description: {
@@ -186,7 +184,7 @@ const conf = convict({
   },
   file_dir: {
     format: 'String',
-    default: `${tmpdir()}${path.sep}send-${randomBytes(4).toString('hex')}`,
+    default: path.resolve(__dirname, '..', 'datas'),
     env: 'FILE_DIR'
   },
   fxa_url: {

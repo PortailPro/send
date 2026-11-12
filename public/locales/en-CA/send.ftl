@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Importing…
 encryptingFile = Encrypting…
 decryptingFile = Decrypting…
@@ -43,7 +43,7 @@ passwordSetError = This password could not be set
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

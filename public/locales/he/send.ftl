@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = מתבצע ייבוא…
 encryptingFile = מתבצעת הצפנה...
 decryptingFile = מתבצע פענוח...
@@ -44,7 +44,7 @@ passwordSetError = לא ניתן להגדיר את הססמה הזאת
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

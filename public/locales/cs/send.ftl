@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Probíhá import…
 encryptingFile = Probíhá šifrování…
 decryptingFile = Probíhá dešifrování…
@@ -47,13 +47,13 @@ passwordSetError = Toto heslo nemohlo být nastaveno
 
 -send-brand =
     { $case ->
-       *[nom] Send
-        [gen] Sendu
-        [dat] Sendu
-        [acc] Send
-        [voc] Sende
-        [loc] Sendu
-        [ins] Sendem
+       *[nom] Portailpro Send
+        [gen] Portailpro Sendu
+        [dat] Portailpro Sendu
+        [acc] Portailpro Send
+        [voc] Portailpro Sende
+        [loc] Portailpro Sendu
+        [ins] Portailpro Sendem
     }
 -send-short-brand =
     { $case ->

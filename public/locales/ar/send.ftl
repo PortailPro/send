@@ -1,4 +1,4 @@
-title = فَيَرفُكس سِنْد
+title = Portailpro Send
 importingFile = يستورد…
 encryptingFile = يعمّي…
 decryptingFile = يفك التعمية…
@@ -51,7 +51,7 @@ passwordSetError = يجب ألا تُضبط كلمة السر هذه
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

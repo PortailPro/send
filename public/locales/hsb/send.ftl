@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Importuje so...
 encryptingFile = Zaklučuje so...
 decryptingFile = Dešifruje so...
@@ -47,7 +47,7 @@ passwordSetError = Tute hesło njeda so nastajić
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

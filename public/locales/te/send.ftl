@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = దిగుమతవుతోంది...
 encryptingFile = గుప్తీకరిస్తోంది...
 decryptingFile = వ్యక్తపరుస్తోంది...
@@ -43,7 +43,7 @@ passwordSetError = ఈ సంకేతపదం పెట్టలేకపో�
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = పంపించు
 -firefox = Firefox
 -mozilla = Mozilla

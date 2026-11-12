@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Importěrujo se...
 encryptingFile = Koděrujo se...
 decryptingFile = Dešifrěrujo se...
@@ -47,7 +47,7 @@ passwordSetError = Toś to gronidło njedajo se nastajiś
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

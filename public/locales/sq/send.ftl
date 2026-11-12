@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Po importohet…
 encryptingFile = Po fshehtëzohet…
 decryptingFile = Po shfshehtëzohet…
@@ -43,7 +43,7 @@ passwordSetError = Ky fjalëkalim s’u caktua dot
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

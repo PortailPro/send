@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Importuojama…
 encryptingFile = Šifruojama…
 decryptingFile = Iššifruojama…
@@ -45,7 +45,7 @@ passwordSetError = Slaptažodžio nustatyti nepavyko
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla =

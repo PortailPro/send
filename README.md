@@ -1,4 +1,15 @@
-# [![Send](./assets/icon-64x64.png)](https://gitlab.com/timvisee/send/) Send
+# [![Portailpro Send](./assets/portailpro-logo.png)](https://gitlab.com/timvisee/send/)
+
+Version PortailPro de [Send (fork timvisee)](https://gitlab.com/timvisee/send/).
+
+Différences avec le projet amont :
+
+- Marque « Portailpro Send » (titre, traductions, manifest web) et logo PortailPro dans l'en-tête
+- Pied de page masqué (`app/override.css`)
+- Valeurs par défaut : durée d'expiration jusqu'à 30 jours, taille max 10 Go,
+  fichiers stockés dans `./datas` (surchargeables via les variables d'environnement)
+
+---
 
 [![Build status on GitLab CI][gitlab-ci-master-badge]][gitlab-ci-link]
 [![Latest release][release-badge]][release-link]

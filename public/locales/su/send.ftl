@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Ngimpor...
 encryptingFile = Ngénkripsi...
 decryptingFile = Ngadékripsi...
@@ -41,7 +41,7 @@ passwordSetError = Ieu kecap sandi teu bisa disét
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

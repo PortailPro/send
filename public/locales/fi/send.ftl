@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Tuodaan…
 encryptingFile = Salataan...
 decryptingFile = Puretaan salausta...
@@ -43,7 +43,7 @@ passwordSetError = Tätä salasanaa ei voitu asettaa
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

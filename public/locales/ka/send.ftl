@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = გადმოტანა...
 encryptingFile = დაშიფვრა...
 decryptingFile = გაშიფვრა...
@@ -43,7 +43,7 @@ passwordSetError = ამ პაროლის დაყენება ვე�
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

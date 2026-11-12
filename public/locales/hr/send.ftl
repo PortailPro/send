@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Uvoz…
 encryptingFile = Šifriranje …
 decryptingFile = Dešifriranje …
@@ -45,7 +45,7 @@ passwordSetError = Lozinku nije moguće postaviti
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

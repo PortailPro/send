@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Εισαγωγή…
 encryptingFile = Κρυπτογράφηση…
 decryptingFile = Αποκρυπτογράφηση…
@@ -43,7 +43,7 @@ passwordSetError = Δεν ήταν δυνατός ο ορισμός αυτού �
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

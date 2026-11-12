@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Kutora faira
 encryptingFile = Kuinikiriputa
 enableJavascript = Ndinokumbira mubvumidze JavaScript moedza zvekare

@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Oc'h enporzhiañ …
 encryptingFile = Oc'h enrinegañ..
 decryptingFile = Oc'h ezrinegañ...
@@ -49,7 +49,7 @@ passwordSetError = N'haller ket despizañ ar ger-tremen
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

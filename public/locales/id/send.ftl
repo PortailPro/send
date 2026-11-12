@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Mengimpor…
 encryptingFile = Mengenkripsi...
 decryptingFile = Mendekripsi...
@@ -41,7 +41,7 @@ passwordSetError = Tidak bisa menyetel sandi ini
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Tajin nijik…
 encryptingFile = Tajin newäx rusik'ixik…
 decryptingFile = Tajin netamäx rusik'ixik...
@@ -43,7 +43,7 @@ passwordSetError = Man tikirel ta ninuk' re ewan tzij re'
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Titaq
 -firefox = Firefox
 -mozilla = Mozilla

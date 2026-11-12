@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = Akter...
 encryptingFile = Awgelhen...
 decryptingFile = Azmek...
@@ -43,7 +43,7 @@ passwordSetError = Awal-agi uffir ur izmir ara ad ittwabaded
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla

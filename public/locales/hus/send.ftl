@@ -1,4 +1,4 @@
-title = Send
+title = Portailpro Send
 importingFile = k'wajat i chiyál...
 encryptingFile = K'wajat i tsinat dheyál...
 decryptingFile = K'wajat i exal ki wila'...
@@ -41,7 +41,7 @@ passwordSetError = Axi tsinat japixtaláb yab u awil ka eyendha'
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Portailpro Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla
